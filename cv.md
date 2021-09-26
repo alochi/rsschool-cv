@@ -5,15 +5,16 @@
 
 ### Contact information:
 
-*e-mail: ochirovaldar@gmail.com*
-*telegram: @aeeraeer*
+*e-mail: ochirovaldar@gmail.com*<br>
+*telegram: @aeeraeer*<br>
 *discord: aldar#3128*
 
 ---
 
 ### About Me:
 
-I am a highly competent IT professional with a proven track record in supporting websites and managing databases. I am an excellent team worker and I have strong technical skills
+I am a highly competent IT professional with a proven track record in supporting websites and managing databases. <br>
+I am an excellent team worker and I have strong technical skills.
 
 ---
 
